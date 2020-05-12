@@ -1,3 +1,3 @@
 # testproject
 Test Project
-Another change to the readme.
+This will be my test project using git with Atom IDE.
